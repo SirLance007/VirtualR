@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import HeroSection from './components/Herosection'
-import FeatureSection from './components/FeatureSection'
-import Testimonials from './components/Testimonials'
-import Pricing from './components/Pricing'
-import Footer from './components/Footer'
+import Navbar from './components/Navbar.jsx'
+import HeroSection from './components/Herosection.jsx'
+import FeatureSection from './components/FeatureSection.jsx'
+import Testimonials from './components/Testimonials.jsx'
+import Pricing from './components/Pricing.jsx'
+import Footer from './components/Footer.jsx'
 import { Workflow } from 'lucide-react'
 const App = () => {
   return (
