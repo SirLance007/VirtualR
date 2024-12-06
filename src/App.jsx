@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar.jsx'
-import HeroSection from './components/Herosection.jsx'
+import HeroSection from './components/HeroSection.jsx'
 import FeatureSection from './components/FeatureSection.jsx'
 import Testimonials from './components/Testimonials.jsx'
 import Pricing from './components/Pricing.jsx'
